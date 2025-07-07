@@ -13,6 +13,14 @@ Aplikacja umożliwia tworzenie schematów relacyjnych baz danych w sposób grafi
 
 ## Zrzuty ekranu
 
+![PustyProjekt](https://github.com/user-attachments/assets/9042a58f-6136-4e39-a8ea-b54adb8ec666)
+
+![PustaTabela](https://github.com/user-attachments/assets/a5692b42-e1bf-45d8-b46b-96eab6b06e34)
+
+![relacja](https://github.com/user-attachments/assets/1b74b6b0-3d27-49dc-ad67-a8221b86df24)
+
+
+
 ## Uruchomienie
 
 1. **Pobierz repozytorium**
