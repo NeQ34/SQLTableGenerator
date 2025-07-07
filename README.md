@@ -19,6 +19,9 @@ Aplikacja umożliwia tworzenie schematów relacyjnych baz danych w sposób grafi
 
 ![relacja](https://github.com/user-attachments/assets/1b74b6b0-3d27-49dc-ad67-a8221b86df24)
 
+![plikTxt](https://github.com/user-attachments/assets/c25cd07a-648b-4aef-bd6d-3745fb3e25d3)
+
+
 
 
 ## Uruchomienie
