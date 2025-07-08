@@ -22,11 +22,11 @@ Aplikacja umożliwia tworzenie schematów relacyjnych baz danych w sposób grafi
 ![plikTxt](https://github.com/user-attachments/assets/c25cd07a-648b-4aef-bd6d-3745fb3e25d3)
 
 ## Technologie
-      `Java` – Wysoko wydajny, obiektowy język programowania, szeroko stosowany do budowy aplikacji webowych, desktopowych i mobilnych
+`Java` – Wysoko wydajny, obiektowy język programowania, szeroko stosowany do budowy aplikacji webowych, desktopowych i mobilnych
 
-      `Java Swing` – Biblioteka GUI w Javie umożliwiająca tworzenie aplikacji desktopowych z interfejsem graficznym
+`Java Swing` – Biblioteka GUI w Javie umożliwiająca tworzenie aplikacji desktopowych z interfejsem graficznym
 
-      `DataFaker` – Biblioteka do generowania realistycznych, losowych danych (np. imion, adresów, numerów telefonów)
+`DataFaker` – Biblioteka do generowania realistycznych, losowych danych (np. imion, adresów, numerów telefonów)
 
 
 ## Uruchomienie
